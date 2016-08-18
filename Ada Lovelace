@@ -39,3 +39,7 @@ distintos algoritmos entre ellos
 Técnica Divide y vencerás
 El método divide y vencerás consiste en descomponer el problema que hay que resolver en una serie de subproblemas, resolver estos subproblemas y combinar después los resultados para obtener la solución del problema original. Pero de menor tamaño, y se resuelven usando la misma técnica. De esta forma, el método se expresa de manera natural mediante un algoritmo recursivo.
 
+Flor
+100-3/(sqrt(x^2+y^2))+sin(sqrt(x^2+y^2))+sqrt(200-
+(x^2+y^2)+10*sin(x)+10sin(y))/1000, x is from -15 to 15, y is from -15 to 15, z is from
+90 to 101
