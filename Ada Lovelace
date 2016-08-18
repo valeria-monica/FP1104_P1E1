@@ -36,3 +36,6 @@ otro si consume menos recursos. Por tanto, podemos observar que el concepto
 de eficiencia y en consecuencia el concepto de coste nos permitir´a comparar
 distintos algoritmos entre ellos
 
+Técnica Divide y vencerás
+El método divide y vencerás consiste en descomponer el problema que hay que resolver en una serie de subproblemas, resolver estos subproblemas y combinar después los resultados para obtener la solución del problema original. Pero de menor tamaño, y se resuelven usando la misma técnica. De esta forma, el método se expresa de manera natural mediante un algoritmo recursivo.
+
