@@ -15,3 +15,24 @@ Luego de trabajar incansablemente y de una vida sentimental algo agitada, Ada Lo
 Sin embargo, la historia fue poco generosa con ella y, por siglos, le asignó el papel de transcriptora de Babbage no reconociendo sus ideas de avanzada y grandes contribuciones.
 Tuvo que pasar más de un siglo para que la historia le diera su lugar. Así fue como, en 1979, el Departamento de Defensa de los Estados Unidos reconoció los aportes de esta joven inglesa y creó un lenguaje de programación en su honor llamado Ada. 
 
+
+Algoritmo
+La caracter´ıstica b´asica que debe tener un algoritmo es que sea correcto,
+es decir, que produzca el resultado deseado en tiempo finito. Adicionalmente
+puede interesarnos que sea claro, que est´e bien estructurado, que sea f´acil de
+usar, que sea f´acil de implementar y que sea eficiente.
+Entendemos por eficiencia de un algoritmo la cantidad de recursos de
+c´omputo que requiere; es decir, cu´al es su tiempo de ejecuci´on y qu´e cantidad
+de memoria utiliza.
+A la cantidad de tiempo que requiere la ejecuci´on de un cierto algoritmo se
+le suele llamar coste en tiempo mientras que a la cantidad de memoria que
+requiere se le suele llamar coste en espacio.
+Es evidente que conviene buscar algoritmos correctos que mantengan tan bajo
+como sea posible el consumo de recursos que hacen del sistema, es decir, que
+sean lo m´as eficientes posible. Cabe hacer notar que el concepto de eficiencia
+de un algoritmo es un concepto relativo, esto quiere decir que ante dos algoritmos
+correctos que resuelven el mismo problema, uno es m´as eficiente que
+otro si consume menos recursos. Por tanto, podemos observar que el concepto
+de eficiencia y en consecuencia el concepto de coste nos permitir´a comparar
+distintos algoritmos entre ellos
+
